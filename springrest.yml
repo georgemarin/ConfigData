@@ -15,3 +15,5 @@ springrest:
     favor-path-extension=true
   spring.mvc.pathmatch:
     use-suffix-pattern=true
+  spring.main:
+    allow-bean-definition-overriding=true
